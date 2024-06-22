@@ -1,5 +1,5 @@
 # Portfolio
-Welcome to my Portfolio! This is my first project of my internship and my first Web Development Project, using frontend technologies. In this project, I have used HTML, CSS and JavaScript.
+Welcome to my Portfolio! This is my first Web Development Project, using frontend technologies. In this project, I have used HTML, CSS and JavaScript.
 
 Here is the preview of my Website
 
